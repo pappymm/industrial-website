@@ -10,7 +10,7 @@ This project is a React-based industrial website built using Vite for fast devel
 
 - **Backend API** with Express.js
 - **Frontend UI** with React.js & Chakra UI
-- **CMS Content Management** (Fake Data for now)
+- **CMS Content Management** 
 - **RESTful API Endpoints**
 - **CORS-Enabled Communication**
 - **Dockerized Deployment**
