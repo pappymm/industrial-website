@@ -273,9 +273,9 @@ This project provides a **dynamic CMS with a full-stack architecture**, leveragi
 
 ---
 
-## Author
-
-**Industrial CMS Team**
-
-For questions or contributions, please open an issue or pull request on **GitHub**. 🙌
+## Contact ##
+If you have any questions or suggestions, feel free to reach out:
+- **Email: pappymusa@gmail.com**
+- **GitHub: pappymm**
+- **Linkedin: https://www.linkedin.com/in/musa-saleh-musa-89b635128/**
 
