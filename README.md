@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is a React-based industrial website built using Vite for fast development and optimized builds. It is containerized using Docker for easy deployment. The app serves CMS content dynamically while integrating DevOps best practices for **deployment, version control, and CI/CD**.
+This project is a React-based industrial website built using Vite for fast development and optimized builds. It is containerized using Docker for easy deployment while integrating DevOps best practices for **deployment, version control, and CI/CD**.
 
 ---
 
@@ -33,7 +33,6 @@ This project is a React-based industrial website built using Vite for fast devel
 
 - Node.js
 - Express.js
-- Mongoose (MongoDB ORM)
 - dotenv (for environment variables)
 - CORS (Cross-Origin Resource Sharing)
 
@@ -52,8 +51,8 @@ This project is a React-based industrial website built using Vite for fast devel
 ### **1. Clone the Repository**
 
 ```sh
-git clone https://github.com/your-repo/industrial-cms.git
-cd industrial-cms
+git clone https://github.com/your-repo/industrial-website.git
+cd industrial-website
 ```
 
 ### **2. Setup Backend**
@@ -262,14 +261,8 @@ sudo systemctl restart nginx
 
 ## Conclusion
 
-This project provides a **dynamic CMS with a full-stack architecture**, leveraging **DevOps best practices** for smooth deployment and scalability. 🚀
+This project provides a **dynamic CMS with a full-stack architecture**, leveraging **DevOps best practices** for smooth deployment and scalability. 
 
-### Future Enhancements
-
-- Implement a real database (MongoDB) instead of static content
-- Add authentication & authorization
-- Create an admin dashboard for CMS management
-- Deploy using Kubernetes for scalability
 
 ---
 
